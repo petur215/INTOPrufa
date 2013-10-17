@@ -34,6 +34,7 @@ int main( )
 	int val;
 	cout << "Petur" << endl;
 	cout << "Vignirk" << endl;
+	cout << "Pjetur" << endl;
 	do
 	{
 		cout << endl << endl << endl;
